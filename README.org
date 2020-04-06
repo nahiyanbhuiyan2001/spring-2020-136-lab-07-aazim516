@@ -7,6 +7,13 @@
 * GitHub username:
 
 * Notes:
+Code review
+PRO
+1. Had very simple easy to understand variable names.
+2. Pretty organized code.
+CON
+1. Hard to understand what happens where.
+2. comments can be very useful here.
 
 * File structure:
 
